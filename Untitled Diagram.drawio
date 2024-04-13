@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T13:34:49.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vns3xbmLbCV5ecbpjugX" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T13:35:38.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XwEAYlZA2JE9h-BeNdio" version="24.2.5" type="github">
   <diagram name="Page-1" id="Xp7BcnjXbAts6n8gM-tV">
-    <mxGraphModel dx="4685" dy="-2190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="6836" dy="-954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,19 +64,19 @@
           <mxGeometry x="130" y="4866" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="4435" width="275" height="240" as="geometry" />
+          <mxGeometry x="2990" y="4290" width="275" height="240" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-18" value="token&lt;div&gt;archive&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="4445" width="60" height="80" as="geometry" />
+          <mxGeometry x="3000" y="4300" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-19" value="Token&amp;nbsp;&lt;div&gt;index&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="2492.5" y="4560" width="60" height="80" as="geometry" />
+          <mxGeometry x="3082.5" y="4415" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-21" target="F1tDSeAfEZiZVZ5YU9dp-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-21" value="token&lt;div&gt;ledger&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="4445" width="60" height="80" as="geometry" />
+          <mxGeometry x="3170" y="4300" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-21" target="F1tDSeAfEZiZVZ5YU9dp-18">
           <mxGeometry relative="1" as="geometry" />
@@ -85,16 +85,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-24" value="sync&lt;br&gt;Transaction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="4540" width="60" height="30" as="geometry" />
+          <mxGeometry x="3000" y="4395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-25" value="sync&lt;br&gt;Transaction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="4540" width="60" height="30" as="geometry" />
+          <mxGeometry x="3170" y="4395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-26" value="blocks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2495" y="4465" width="60" height="30" as="geometry" />
+          <mxGeometry x="3085" y="4320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-27" value="ICRC -2 token canister suite" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="4635" width="80" height="30" as="geometry" />
+          <mxGeometry x="3170" y="4490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-29" target="F1tDSeAfEZiZVZ5YU9dp-13">
           <mxGeometry relative="1" as="geometry" />
