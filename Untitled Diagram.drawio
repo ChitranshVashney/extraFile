@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T03:40:56.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fWa5ODRu0CJNRBf5Utco" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T03:52:56.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xSC_yhD0WLiPsqzh074z" version="24.2.5" type="github">
   <diagram name="Page-1" id="Xp7BcnjXbAts6n8gM-tV">
-    <mxGraphModel dx="3707" dy="-2752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="-3220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -911,7 +911,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-288" value="&lt;span style=&quot;font-family: Arial, sans-serif;&quot;&gt;Cross-Chain Communication canister&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-101" y="10563" width="100" height="110" as="geometry" />
+          <mxGeometry x="-165" y="10558" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-290" target="F1tDSeAfEZiZVZ5YU9dp-295" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -979,8 +979,11 @@
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-313" value="Network state(events, logs)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="121.49999999999997" y="10413" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-301" target="F1tDSeAfEZiZVZ5YU9dp-284" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-301" target="F1tDSeAfEZiZVZ5YU9dp-284" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="68.91" y="10876" as="sourcePoint" />
+            <mxPoint x="173.91" y="10711" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-316" value="Burn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F1tDSeAfEZiZVZ5YU9dp-315" vertex="1" connectable="0">
           <mxGeometry x="0.1012" y="3" relative="1" as="geometry">
