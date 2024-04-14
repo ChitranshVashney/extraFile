@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T08:18:04.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Tr3saOB96OVL5RZD-9GI" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T08:37:41.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="e8QOHXO_hjARcjNu5pf5" version="24.2.5" type="github">
   <diagram name="Page-1" id="Xp7BcnjXbAts6n8gM-tV">
-    <mxGraphModel dx="2893" dy="-3220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2404" dy="-3501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,16 +24,17 @@
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-6" value="Minter&amp;nbsp;&lt;div&gt;canister&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="495" y="4986" width="135" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-8" target="F1tDSeAfEZiZVZ5YU9dp-4" edge="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-8" target="F1tDSeAfEZiZVZ5YU9dp-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-8" value="Json RPC" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="4936" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-10" target="F1tDSeAfEZiZVZ5YU9dp-8" edge="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=28;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=none;startFill=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;exitPerimeter=0;" parent="1" source="XXBF-MiVBZpwEL9QP5nQ-7" target="F1tDSeAfEZiZVZ5YU9dp-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="4966" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-70" y="5201" />
               <mxPoint x="-70" y="5024" />
               <mxPoint x="5" y="5024" />
               <mxPoint x="5" y="4976" />
@@ -42,8 +43,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-10" value="Other Blockchains" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="5086" width="200" height="190" as="geometry" />
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-255" y="5089" width="340" height="321" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-11" value="HTTP outcalls" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-5;" parent="1" vertex="1">
           <mxGeometry x="-100" y="4996" width="100" height="30" as="geometry" />
@@ -58,10 +59,7 @@
           <mxGeometry x="410" y="4906" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;AppIC Terminal Minting&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="5180" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-16" value="AppIC Terminal Minting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="4866" width="150" height="30" as="geometry" />
+          <mxGeometry x="-470" y="5226" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2990" y="4290" width="275" height="240" as="geometry" />
@@ -136,7 +134,7 @@
           <mxGeometry x="550" y="5161" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-85" y="5996" width="390" height="390" as="geometry" />
+          <mxGeometry x="-105" y="5996" width="390" height="390" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;exitPerimeter=0;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-61" target="F1tDSeAfEZiZVZ5YU9dp-47" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -145,23 +143,23 @@
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-44" value="&lt;span style=&quot;line-height: 11.77px; font-family: Arial, sans-serif;&quot;&gt;ECDSA public keys for&lt;br&gt;signing and verification&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 11.77px; font-family: Arial, sans-serif;&quot;&gt;of transactions&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" parent="F1tDSeAfEZiZVZ5YU9dp-43" vertex="1" connectable="0">
           <mxGeometry x="0.3769" y="-11" relative="1" as="geometry">
-            <mxPoint x="29" y="-39" as="offset" />
+            <mxPoint x="-5" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="501" y="5656" width="680" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-47" target="F1tDSeAfEZiZVZ5YU9dp-51">
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-47" target="F1tDSeAfEZiZVZ5YU9dp-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-47" value="Token Unlocking Contract" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=24;" parent="1" vertex="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-47" value="Helper Smart Contract" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=24;" parent="1" vertex="1">
           <mxGeometry x="85" y="6140" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-48" value="Other blockchain" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="90" y="6006" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="6011" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-51" value="Other blockchain&amp;nbsp;&lt;div&gt;wallet&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="6146" width="30" height="60" as="geometry" />
+          <mxGeometry x="-55" y="6146" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=80;entryDy=62;entryPerimeter=0;curved=1;dashed=1;dashPattern=1 4;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-61" target="F1tDSeAfEZiZVZ5YU9dp-47" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -172,7 +170,7 @@
           <mxGeometry x="320" y="6006" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-56" value="Unlocking Token&lt;div&gt;&amp;nbsp;Request&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="425" y="6181" width="110" height="40" as="geometry" />
+          <mxGeometry x="425" y="6121" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;AppIC Terminal Burning&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-310" y="6176" width="190" height="30" as="geometry" />
@@ -383,7 +381,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-119" value="Multiswap" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-119" value="Multiswap&lt;div&gt;canister&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-10" y="7350" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-120" value="ICP&lt;div&gt;Dexes&lt;div&gt;canister&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" parent="1" vertex="1">
@@ -395,8 +393,13 @@
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-122" value="User wallet" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-130" y="7375" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.122;entryY=0.724;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-120" target="F1tDSeAfEZiZVZ5YU9dp-116" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-120" target="F1tDSeAfEZiZVZ5YU9dp-119" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="248" y="7480" />
+              <mxPoint x="35" y="7480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-124" value="New Portfolio" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F1tDSeAfEZiZVZ5YU9dp-123" vertex="1" connectable="0">
           <mxGeometry x="0.0031" y="5" relative="1" as="geometry">
@@ -483,7 +486,7 @@
             <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-146" target="F1tDSeAfEZiZVZ5YU9dp-131" edge="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitPerimeter=0;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-132" target="F1tDSeAfEZiZVZ5YU9dp-131" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-165" value="trasfering&lt;div&gt;to user&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F1tDSeAfEZiZVZ5YU9dp-163" vertex="1" connectable="0">
@@ -805,7 +808,7 @@
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-253" value="Blockchain 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;labelBackgroundColor=#fbe4ef;" parent="1" vertex="1">
           <mxGeometry x="-245" y="10010" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-255" target="F1tDSeAfEZiZVZ5YU9dp-246" edge="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=classic;endFill=1;dashed=1;dashPattern=1 2;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-255" target="F1tDSeAfEZiZVZ5YU9dp-246" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="335" y="9760" />
@@ -828,7 +831,7 @@
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-259" value="&lt;div&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;Minter canister&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="510" y="9865" width="95" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;endArrow=none;endFill=0;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-262" target="F1tDSeAfEZiZVZ5YU9dp-256" edge="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-262" target="F1tDSeAfEZiZVZ5YU9dp-256" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-262" target="F1tDSeAfEZiZVZ5YU9dp-259" edge="1">
@@ -858,60 +861,60 @@
           <mxGeometry x="-570" y="9905" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-280" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3BstrokeOpacity%3D100%3BfillOpacity%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-190%22%20y%3D%223450%22%20width%3D%22330%22%20height%3D%22330%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22User%22%20style%3D%22shape%3DumlActor%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3BoutlineConnect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-170%22%20y%3D%223580%22%20width%3D%2220%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BjumpStyle%3Dnone%3BflowAnimation%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2230%22%20y%3D%223599.5%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22460%22%20y%3D%223599.5%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bline-height%3A%20107%25%3B%20font-family%3A%20Arial%2C%20sans-serif%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2011px%3B%26quot%3B%26gt%3BECDSA%20public%20keys%20for%26lt%3Bbr%26gt%3Bsigning%20and%20verification%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bline-height%3A%20107%25%3B%20font-family%3A%20Arial%2C%20sans-serif%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2011px%3B%26quot%3B%26gt%3Bof%20transactions%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BlabelBorderColor%3Ddefault%3BlabelBackgroundColor%3Ddefault%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%224%22%3E%3CmxGeometry%20x%3D%220.0554%22%20y%3D%224%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-7%22%20y%3D%225%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22Helper%20Smart%20Contract(ERC-20%20Token%20Lock)%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-10%22%20y%3D%223560%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3B%22%20edge%3D%221%22%20source%3D%223%22%20target%3D%226%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22330%22%20y%3D%223740%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22380%22%20y%3D%223690%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20value%3D%22%26lt%3Bdiv%26gt%3BERC-20%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bdeposit%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BlabelBorderColor%3Ddefault%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%227%22%3E%3CmxGeometry%20x%3D%220.1%22%20y%3D%22-3%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-7%22%20y%3D%22-3%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20value%3D%22L2%20blockchain%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BlabelBorderColor%3Ddefault%3BlabelBackgroundColor%3D%23fbe4ef%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-70%22%20y%3D%223690%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D0%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D1%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3Bcurved%3D1%3B%22%20edge%3D%221%22%20source%3D%2211%22%20target%3D%222%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22510%22%20y%3D%223440%22%2F%3E%3CmxPoint%20x%3D%2292%22%20y%3D%223440%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20value%3D%22%22%20style%3D%22ellipse%3BgradientColor%3Dnone%3Bhtml%3D1%3BlabelBackgroundColor%3Dnone%3Baspect%3Dfixed%3BfillOpacity%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22360%22%20y%3D%223430%22%20width%3D%22440%22%20height%3D%22440%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20value%3D%22JSON%20RPC%22%20style%3D%22ellipse%3Bshape%3Dcloud%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22375%22%20y%3D%223420%22%20width%3D%22150%22%20height%3D%22100%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2213%22%20value%3D%22HTTP%20outcalls%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%223430%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2214%22%20value%3D%22Network%20state(events%2C%20logs)%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22205%22%20y%3D%223410%22%20width%3D%22170%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2215%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20face%3D%26quot%3BArial%2C%20sans-serif%26quot%3B%26gt%3BBridge%20canister%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22615%22%20y%3D%223545%22%20width%3D%2295%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2216%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0.55%3BentryY%3D0.95%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3Bcurved%3D1%3B%22%20edge%3D%221%22%20source%3D%2218%22%20target%3D%2212%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2217%22%20value%3D%22%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3B%22%20edge%3D%221%22%20source%3D%2218%22%20target%3D%2215%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2218%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20Arial%2C%20sans-serif%3B%26quot%3B%26gt%3BCross-Chain%20Communication%20canister%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22450%22%20y%3D%223545%22%20width%3D%22100%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2219%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D0%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3Bcurved%3D1%3B%22%20edge%3D%221%22%20source%3D%2221%22%20target%3D%2224%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2220%22%20value%3D%22Unlock%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BlabelBorderColor%3Ddefault%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%2219%22%3E%3CmxGeometry%20x%3D%22-0.0308%22%20y%3D%222%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%227%22%20y%3D%22-2%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2221%22%20value%3D%22ICERC-20%20token%20canister%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22560%22%20y%3D%223700%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2222%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D1%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3Bcurved%3D1%3B%22%20edge%3D%221%22%20source%3D%2215%22%20target%3D%2221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2223%22%20value%3D%22Mint%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%2222%22%3E%3CmxGeometry%20x%3D%22-0.0512%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2224%22%20value%3D%22User&#39;s%20ICP%26amp%3Bnbsp%3B%26lt%3Bdiv%26gt%3Bwallet%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3DumlActor%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3BoutlineConnect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22420%22%20y%3D%223690%22%20width%3D%2230%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3BstrokeOpacity%3D100%3BfillOpacity%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-190%22%20y%3D%223450%22%20width%3D%22330%22%20height%3D%22330%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22User%22%20style%3D%22shape%3DumlActor%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3BoutlineConnect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-170%22%20y%3D%223580%22%20width%3D%2220%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BjumpStyle%3Dnone%3BflowAnimation%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2230%22%20y%3D%223599.5%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22460%22%20y%3D%223599.5%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bline-height%3A%20107%25%3B%20font-family%3A%20Arial%2C%20sans-serif%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2011px%3B%26quot%3B%26gt%3BECDSA%20public%20keys%20for%26lt%3Bbr%26gt%3Bsigning%20and%20verification%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bline-height%3A%20107%25%3B%20font-family%3A%20Arial%2C%20sans-serif%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2011px%3B%26quot%3B%26gt%3Bof%20transactions%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BlabelBorderColor%3Ddefault%3BlabelBackgroundColor%3Ddefault%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%224%22%3E%3CmxGeometry%20x%3D%220.0554%22%20y%3D%224%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-7%22%20y%3D%225%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22Helper%20Smart%20Contract(ERC-20%20Token%20Lock)%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-10%22%20y%3D%223560%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3B%22%20edge%3D%221%22%20source%3D%223%22%20target%3D%226%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22330%22%20y%3D%223740%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22380%22%20y%3D%223690%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20value%3D%22%26lt%3Bdiv%26gt%3BERC-20%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bdeposit%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BlabelBorderColor%3Ddefault%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%227%22%3E%3CmxGeometry%20x%3D%220.1%22%20y%3D%22-3%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-7%22%20y%3D%22-3%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20value%3D%22L2%20blockchain%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BlabelBorderColor%3Ddefault%3BlabelBackgroundColor%3D%23fbe4ef%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-70%22%20y%3D%223690%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D0%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D1%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3Bcurved%3D1%3B%22%20edge%3D%221%22%20source%3D%2211%22%20target%3D%222%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22510%22%20y%3D%223440%22%2F%3E%3CmxPoint%20x%3D%2292%22%20y%3D%223440%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20value%3D%22%22%20style%3D%22ellipse%3BgradientColor%3Dnone%3Bhtml%3D1%3BlabelBackgroundColor%3Dnone%3Baspect%3Dfixed%3BfillOpacity%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22360%22%20y%3D%223430%22%20width%3D%22440%22%20height%3D%22440%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20value%3D%22JSON%20RPC%22%20style%3D%22ellipse%3Bshape%3Dcloud%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22375%22%20y%3D%223420%22%20width%3D%22150%22%20height%3D%22100%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2213%22%20value%3D%22HTTP%20outcalls%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%223430%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2214%22%20value%3D%22Network%20state(events%2C%20logs)%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22205%22%20y%3D%223410%22%20width%3D%22170%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2215%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20face%3D%26quot%3BArial%2C%20sans-serif%26quot%3B%26gt%3BBridge%20canister%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22615%22%20y%3D%223545%22%20width%3D%2295%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2216%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0.55%3BentryY%3D0.95%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3Bcurved%3D1%3B%22%20edge%3D%221%22%20source%3D%2218%22%20target%3D%2212%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2217%22%20value%3D%22%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3B%22%20edge%3D%221%22%20source%3D%2218%22%20target%3D%2215%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2218%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20Arial%2C%20sans-serif%3B%26quot%3B%26gt%3BCross-Chain%20Communication%20canister%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22450%22%20y%3D%223545%22%20width%3D%22100%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2219%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D0%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3Bcurved%3D1%3B%22%20edge%3D%221%22%20source%3D%2221%22%20target%3D%2224%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2220%22%20value%3D%22Unlock%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BlabelBorderColor%3Ddefault%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%2219%22%3E%3CmxGeometry%20x%3D%22-0.0308%22%20y%3D%222%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%227%22%20y%3D%22-2%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2221%22%20value%3D%22ICERC-20%20token%20canister%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22560%22%20y%3D%223700%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2222%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D1%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3Bcurved%3D1%3B%22%20edge%3D%221%22%20source%3D%2215%22%20target%3D%2221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2223%22%20value%3D%22Mint%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%2222%22%3E%3CmxGeometry%20x%3D%22-0.0512%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2224%22%20value%3D%22User&#39;s%20ICP%26amp%3Bnbsp%3B%26lt%3Bdiv%26gt%3Bwallet%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3DumlActor%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3BoutlineConnect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22420%22%20y%3D%223690%22%20width%3D%2230%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-328.5" y="10681" width="20" height="30" as="geometry" />
+          <mxGeometry x="1051.5" y="9988" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-282" value="" style="ellipse;gradientColor=none;html=1;labelBackgroundColor=none;aspect=fixed;fillOpacity=0;" parent="1" vertex="1">
-          <mxGeometry x="-373.5" y="10403" width="610" height="610" as="geometry" />
+          <mxGeometry x="1006.5" y="9710" width="610" height="610" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-284" value="&lt;div&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;Minter canister&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="98.99999999999997" y="10623" width="95" height="110" as="geometry" />
+          <mxGeometry x="1479" y="9930" width="95" height="110" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-288" target="F1tDSeAfEZiZVZ5YU9dp-293" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-168.50000000000003" y="10593" as="sourcePoint" />
-            <mxPoint x="476.4999999999999" y="10528" as="targetPoint" />
+            <mxPoint x="1211.5" y="9900" as="sourcePoint" />
+            <mxPoint x="1856.5" y="9835" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-121" y="10578" />
-              <mxPoint x="-121" y="10448" />
-              <mxPoint x="472" y="10448" />
-              <mxPoint x="472" y="10573" />
+              <mxPoint x="1259" y="9885" />
+              <mxPoint x="1259" y="9755" />
+              <mxPoint x="1852" y="9755" />
+              <mxPoint x="1852" y="9880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=35;exitPerimeter=0;entryX=0;entryY=0;entryDx=28;entryDy=0;curved=1;entryPerimeter=0;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-288" target="F1tDSeAfEZiZVZ5YU9dp-306" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="149" y="10598" />
-              <mxPoint x="149" y="10553" />
-              <mxPoint x="360" y="10553" />
-              <mxPoint x="360" y="10653" />
-              <mxPoint x="380" y="10653" />
+              <mxPoint x="1529" y="9905" />
+              <mxPoint x="1529" y="9860" />
+              <mxPoint x="1740" y="9860" />
+              <mxPoint x="1740" y="9960" />
+              <mxPoint x="1760" y="9960" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-288" value="&lt;span style=&quot;font-family: Arial, sans-serif;&quot;&gt;Cross-Chain Communication canister&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-165" y="10558" width="100" height="110" as="geometry" />
+          <mxGeometry x="1215" y="9865" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-290" target="F1tDSeAfEZiZVZ5YU9dp-295" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-290" value="ICToken 1 canister" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-311" y="10593" width="80" height="80" as="geometry" />
+          <mxGeometry x="1069" y="9900" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-293" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeOpacity=100;fillOpacity=0;" parent="1" vertex="1">
-          <mxGeometry x="311.5" y="10573" width="330" height="330" as="geometry" />
+          <mxGeometry x="1691.5" y="9880" width="330" height="330" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-294" value="JSON RPC" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1.0000000000000284" y="10413" width="150" height="100" as="geometry" />
+          <mxGeometry x="1379" y="9720" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-295" value="Swapper&amp;nbsp;&lt;div&gt;canister&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-273.5" y="10733" width="60" height="80" as="geometry" />
+          <mxGeometry x="1106.5" y="10040" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-297" target="F1tDSeAfEZiZVZ5YU9dp-301" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-297" value="IC&lt;br&gt;Dexes" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="-161" y="10823" width="60" height="80" as="geometry" />
+          <mxGeometry x="1219" y="10130" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-295" target="F1tDSeAfEZiZVZ5YU9dp-297" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -922,7 +925,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-301" value="ICToken 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="8.999999999999972" y="10803" width="80" height="80" as="geometry" />
+          <mxGeometry x="1389" y="10110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-302" value="&lt;span style=&quot;line-height: 11.77px; font-family: Arial, sans-serif;&quot;&gt;ECDSA public keys for&lt;br&gt;signing and verification&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 11.77px; font-family: Arial, sans-serif;&quot;&gt;of transactions&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="180.32999999999998" y="11220" as="geometry" />
@@ -936,32 +939,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-306" value="Token 2 Unlocking Contract" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=24;" parent="1" vertex="1">
-          <mxGeometry x="351.5" y="10681" width="80" height="100" as="geometry" />
+          <mxGeometry x="1731.5" y="9988" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-307" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="511.4999999999999" y="10712" width="30" height="60" as="geometry" />
+          <mxGeometry x="1891.5" y="10019" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-308" value="Blockchain 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;labelBackgroundColor=#fbe4ef;" parent="1" vertex="1">
-          <mxGeometry x="446.4999999999999" y="10823" width="60" height="30" as="geometry" />
+          <mxGeometry x="1826.5" y="10130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=75;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=75;entryPerimeter=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-284" target="F1tDSeAfEZiZVZ5YU9dp-288" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="29" y="10698" />
-              <mxPoint x="29" y="10638" />
+              <mxPoint x="1409" y="10005" />
+              <mxPoint x="1409" y="9945" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-312" value="HTTP outcalls" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="364" y="10473" width="90" height="30" as="geometry" />
+          <mxGeometry x="1744" y="9780" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-313" value="Network state(events, logs)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="121.49999999999997" y="10413" width="170" height="30" as="geometry" />
+          <mxGeometry x="1501.5" y="9720" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-301" target="F1tDSeAfEZiZVZ5YU9dp-284" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="68.91" y="10876" as="sourcePoint" />
-            <mxPoint x="173.91" y="10711" as="targetPoint" />
+            <mxPoint x="1448.91" y="10183" as="sourcePoint" />
+            <mxPoint x="1553.91" y="10018" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-316" value="Burn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F1tDSeAfEZiZVZ5YU9dp-315" vertex="1" connectable="0">
@@ -970,13 +973,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-319" value="Unlocking Token&lt;div&gt;&amp;nbsp;Request&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="204" y="10518" width="110" height="40" as="geometry" />
+          <mxGeometry x="1584" y="9825" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-320" value="&lt;span style=&quot;line-height: 11.77px; font-family: Arial, sans-serif;&quot;&gt;ECDSA public keys for&lt;br&gt;signing and verification&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 11.77px; font-family: Arial, sans-serif;&quot;&gt;of transactions&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="324" y="10573" as="geometry" />
+          <mxGeometry x="1704" y="9880" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-321" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Swap Burning&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-570" y="10681" width="60" height="30" as="geometry" />
+          <mxGeometry x="900" y="9988" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-4" value="Unlock&lt;br&gt;Tokens" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="15" y="6161" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-7" value="Helper Smart Contract" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=24;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="5201" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-10" value="Other blockchain&amp;nbsp;&lt;div&gt;wallet&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="5219.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="XXBF-MiVBZpwEL9QP5nQ-10" target="XXBF-MiVBZpwEL9QP5nQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-12" value="locking&lt;br&gt;Tokens" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XXBF-MiVBZpwEL9QP5nQ-11">
+          <mxGeometry x="-0.0398" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-14" value="Other blockchain" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="5366" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;curved=1;" edge="1" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-115" y="7440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-18" value="tokens&lt;div&gt;send&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XXBF-MiVBZpwEL9QP5nQ-17">
+          <mxGeometry x="-0.2716" y="-1" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXBF-MiVBZpwEL9QP5nQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;curved=1;" edge="1" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-146" target="F1tDSeAfEZiZVZ5YU9dp-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
