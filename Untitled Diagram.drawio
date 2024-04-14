@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T08:37:41.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="e8QOHXO_hjARcjNu5pf5" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T08:40:03.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PXlSsSppvredQ85PnFi4" version="24.2.5" type="github">
   <diagram name="Page-1" id="Xp7BcnjXbAts6n8gM-tV">
-    <mxGraphModel dx="2404" dy="-3501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3306" dy="-2982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -869,7 +869,7 @@
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-284" value="&lt;div&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;Minter canister&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1479" y="9930" width="95" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-288" target="F1tDSeAfEZiZVZ5YU9dp-293" edge="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-288" target="F1tDSeAfEZiZVZ5YU9dp-293" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1211.5" y="9900" as="sourcePoint" />
             <mxPoint x="1856.5" y="9835" as="targetPoint" />
@@ -881,7 +881,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=35;exitPerimeter=0;entryX=0;entryY=0;entryDx=28;entryDy=0;curved=1;entryPerimeter=0;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-288" target="F1tDSeAfEZiZVZ5YU9dp-306" edge="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=35;exitPerimeter=0;entryX=0;entryY=0;entryDx=28;entryDy=0;curved=1;entryPerimeter=0;dashed=1;dashPattern=1 2;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-288" target="F1tDSeAfEZiZVZ5YU9dp-306" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1529" y="9905" />
@@ -927,9 +927,6 @@
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-301" value="ICToken 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1389" y="10110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-302" value="&lt;span style=&quot;line-height: 11.77px; font-family: Arial, sans-serif;&quot;&gt;ECDSA public keys for&lt;br&gt;signing and verification&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 11.77px; font-family: Arial, sans-serif;&quot;&gt;of transactions&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="180.32999999999998" y="11220" as="geometry" />
-        </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=62;exitPerimeter=0;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-306" target="F1tDSeAfEZiZVZ5YU9dp-307" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -938,7 +935,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-306" value="Token 2 Unlocking Contract" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=24;" parent="1" vertex="1">
+        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-306" value="Helper&lt;div&gt;smart contract&lt;/div&gt;&lt;div&gt;Token 2&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=24;" parent="1" vertex="1">
           <mxGeometry x="1731.5" y="9988" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-307" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
