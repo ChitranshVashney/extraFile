@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T08:05:07.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5ygYGKRf_QQNrRvcRNmH" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T08:10:13.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="q8JLip8772-dVAsi01NN" version="24.2.5" type="github">
   <diagram name="Page-1" id="Xp7BcnjXbAts6n8gM-tV">
     <mxGraphModel dx="2893" dy="-3220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -9,11 +9,6 @@
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="F1tDSeAfEZiZVZ5YU9dp-4" target="F1tDSeAfEZiZVZ5YU9dp-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F1tDSeAfEZiZVZ5YU9dp-3" value="Unlock&amp;nbsp;&lt;div&gt;Token on ICP&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" parent="F1tDSeAfEZiZVZ5YU9dp-2" vertex="1" connectable="0">
-          <mxGeometry x="-0.0876" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="F1tDSeAfEZiZVZ5YU9dp-4" value="Cross-Chain communication&amp;nbsp;&lt;div&gt;canister&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="255" y="5046" width="130" height="180" as="geometry" />
