@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:04:35.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4UrA8yqvFGr3QkBim0gA" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:08:31.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pN2lM0MVI2mHelQPgIif" version="24.3.1" type="github">
   <diagram name="Page-1" id="Xp7BcnjXbAts6n8gM-tV">
     <mxGraphModel dx="2124" dy="-3661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1024,6 +1024,11 @@
             <mxPoint x="540" y="13170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jqa143p9E21RxXZdd_zS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jqa143p9E21RxXZdd_zS-3" target="jqa143p9E21RxXZdd_zS-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437.42857142857156" y="13350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jqa143p9E21RxXZdd_zS-3" value="Approve All tokens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="13200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1035,6 +1040,22 @@
         </mxCell>
         <mxCell id="jqa143p9E21RxXZdd_zS-7" value="Record this transaction initiation in Database" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="13090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jqa143p9E21RxXZdd_zS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jqa143p9E21RxXZdd_zS-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="13320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jqa143p9E21RxXZdd_zS-9" value="Convert all tokens to a common token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377.42857142857156" y="13320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jqa143p9E21RxXZdd_zS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jqa143p9E21RxXZdd_zS-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610.2857142857147" y="13440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jqa143p9E21RxXZdd_zS-12" value="Compare all tokens to get maximum from all dex" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="561" y="13270" width="99" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
